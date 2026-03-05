@@ -1,4 +1,4 @@
-# KWY Farms Pty Ltd — Simple Cattle Farm Website
+# KWY Farms Pty Ltd: A Simple Cattle Farm Website
 
 A fast, mobile-friendly one-page website (HTML/CSS/JS) with:
 - Hero + About + Gallery (click-to-enlarge) + Contact
